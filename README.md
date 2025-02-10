@@ -2,7 +2,7 @@
 
 I'm a software developer who loves building things with code. When I'm not coding, I enjoy watching horror movies and exploring new technologies.  
 I also love writing; feel free to check out my [blog](https://medium.com/@efar3200).  
-Wanna check out a minimal [portfolio](https://h1n.netlify.app/)?
+Wanna check out my [portfolio](https://h1n.netlify.app/)?
 
 
 
@@ -23,10 +23,13 @@ Wanna check out a minimal [portfolio](https://h1n.netlify.app/)?
 
 ---
 
-## Let's Link Up
-- [LinkedIn](https://linkedin.com/in/yourprofile)
-- [Twitter](https://twitter.com/yourhandle)
-- Email: your.email@example.com
+## Let's Connect
+- Email: alhusseinf734@gmail.com
+- Phone no: +642102243537
+- [LinkedIn](https://www.linkedin.com/in/elhussin-y-2643301a0/)
+- [Discord](https://www.discordapp.com/users/1322485289121222686)
+
+
 
 
 ---
@@ -36,7 +39,6 @@ Wanna check out a minimal [portfolio](https://h1n.netlify.app/)?
       <li>I held an infant crocodile in my arms once.</li>
     <li>When I eat cereal, I keep the cereal and the milk separated.</li>
     <li>I find most horror movies extremely soothing.</li>
-    <li>I am a gamer.</li>
     <li>I’m addicted to music.</li>
     <li>I once worked as a Turkish pie maker.</li>
 
